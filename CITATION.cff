@@ -3,12 +3,7 @@ message: "If you use these results, please cite them as below."
 title: "RehearsalBench: Can AI Predict What Happens When You Change a Company?"
 type: dataset
 authors:
-  - family-names: Siddiqui
-    given-names: Mika
-    affiliation: Afterflow Inc.
-  - family-names: Perera
-    given-names: Tharaka
-    affiliation: Afterflow Inc.
+  - name: "Afterflow Inc."
 date-released: 2026-11-03
 license: CC-BY-4.0
 repository-code: "https://github.com/afterflowinc/rehearsalbench"

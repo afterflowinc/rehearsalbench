@@ -95,11 +95,10 @@ The simulator, the oracle, and the test organisations aren't released, to keep f
 ## Citation
 
 ```bibtex
-@misc{siddiqui2026rehearsalbench,
+@misc{afterflow2026rehearsalbench,
   title  = {{RehearsalBench}: Can {AI} Predict What Happens When You Change a Company?},
-  author = {Siddiqui, Mika and Perera, Tharaka},
+  author = {{Afterflow Inc.}},
   year   = {2026},
-  note   = {Afterflow Inc.},
   url    = {https://github.com/afterflowinc/rehearsalbench}
 }
 ```
